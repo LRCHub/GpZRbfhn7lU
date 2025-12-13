@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "WaLL FloWeR",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-13T01:40:55.617585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wall Flower",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/01_The_Wall_Flower_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wall Flower",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/02_Wall_Flower_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Beat Hit (Wall Flower)",
+      "artist": "1TakeJay",
+      "has_synced": true,
+      "path": "select/03_This_Beat_Hit_(Wall_Flower)_1TakeJay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wall Flower",
+      "artist": "Original Love",
+      "has_synced": false,
+      "path": "select/04_Wall_Flower_Original_Love.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wall Flower",
+      "artist": "Switchblade Symphony",
+      "has_synced": true,
+      "path": "select/05_Wall_Flower_Switchblade_Symphony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WaLL FloWeR",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_WaLL_FloWeR_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
