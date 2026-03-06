@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "WaLL FloWeR",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-13T01:40:55.617585Z",
+  "createdAt": "2026-03-06T17:53:39.431036Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,110 @@
       "artist": "Switchblade Symphony",
       "has_synced": true,
       "path": "select/05_Wall_Flower_Switchblade_Symphony.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flowers on the Wall",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/06_Flowers_on_the_Wall_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flowers On the Wall (Album Version)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/07_Flowers_On_the_Wall_(Album_Version)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowers On The Wall - Live",
+      "artist": "The Statler Brothers",
+      "has_synced": false,
+      "path": "select/08_Flowers_On_The_Wall_-_Live_The_Statler_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jersey on the Wall (I'm Just Asking)",
+      "artist": "Tenille Townes",
+      "has_synced": true,
+      "path": "select/09_Jersey_on_the_Wall_(I'm_Just_Asking)_Tenille_Townes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Boys We Were (feat. Colter Wall)",
+      "artist": "Wade Sapp",
+      "has_synced": true,
+      "path": "select/10_The_Boys_We_Were_(feat._Colter_Wall)_Wade_Sapp.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tonight I Climbed the Wall",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/11_Tonight_I_Climbed_the_Wall_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Up Against the Wall Redneck Mother",
+      "artist": "Jerry Jeff Walker",
+      "has_synced": true,
+      "path": "select/12_Up_Against_the_Wall_Redneck_Mother_Jerry_Jeff_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wall Of Death",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/13_Wall_Of_Death_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Brick In The Wall (Part 2) - Live",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/14_Another_Brick_In_The_Wall_(Part_2)_-_Live_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Another Brick In the Wall, Pt. 2",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/15_Another_Brick_In_the_Wall,_Pt._2_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/16_Another_Brick_In_The_Wall_(Part_II)_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Outside the Wall",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/17_Outside_the_Wall_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SpongeBob & Patrick Confront The Psychic Wall Of Energy",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/18_SpongeBob_&_Patrick_Confront_The_Psychic_Wall_Of_Energy_The_Flaming_Lips.lrc"
     },
     {
       "id": "petitlyrics_1",
